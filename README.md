@@ -41,6 +41,7 @@ Intent categories
 (If you have a specific dataset name, you can add it here.)
 
 🔍 Methodology
+
 1️⃣ Data Preprocessing
 
 Text cleaning (removal of punctuation, special characters, etc.)
@@ -113,6 +114,7 @@ Stylometric features significantly improved model interpretability.
 The final model is ready for deployment.
 
 🚀 How to Run the Project
+
 Install dependencies:
 pip install pandas numpy scikit-learn nltk spacy matplotlib seaborn joblib
 
