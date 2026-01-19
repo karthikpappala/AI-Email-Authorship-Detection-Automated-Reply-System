@@ -1,4 +1,5 @@
 AI Email Authorship Detection & Automated Reply System
+
 📌 Overview
 
 This project builds an AI-based system that identifies the likely author of an email and generates an automated reply. The system leverages Natural Language Processing (NLP), stylometric analysis, and machine learning classifiers to detect authorship patterns in emails and assist in automated response generation.
